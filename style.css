@@ -237,7 +237,6 @@ a {
     flex: 1;
     margin-top: 49px;
     height: 310px;
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
 }
 .service > li:not(:last-child) {
     margin-right: 20px;
